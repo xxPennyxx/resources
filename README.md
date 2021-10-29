@@ -2,7 +2,7 @@
 
 ## I'm good O_O
 
-*slightly off track xD*
+_slightly off track xD_
 **Never mind!**
 
 - this
@@ -10,3 +10,4 @@
 - NOT
 - a
 - list.
+- NO.
