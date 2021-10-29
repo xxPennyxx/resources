@@ -3,7 +3,7 @@
 ## I'm good O_O
 
 *slightly off track xD*
-**Never mind!*
+**Never mind!**
 
 - this
 - is
