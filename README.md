@@ -1,2 +1,12 @@
-# not-my-first-repo
-Repo created AFTER the Git workshop 2.0 xD
+# Sup fellas?
+
+## I'm good O_O
+
+*slightly off track xD*
+**Never mind!*
+
+- this
+- is
+- NOT
+- a
+- list.
